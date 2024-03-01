@@ -1,0 +1,20 @@
+repo_name: ktreharrison/community-starter-kit
+report_id: 37570ee8877396947160400dc2dd4992
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:01:39+00:00'
+requested_by: github-learning-lab[bot]
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ktreharrison/community-starter-kit
+  detection_source: Repo Metadata
